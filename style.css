@@ -1,0 +1,19 @@
+body{
+ background-color: rgb(181, 181, 181);
+}
+
+.score{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+.timer{
+    font-size: medium;
+    float: right;
+    margin-right: 20px;
+}
+
+.tbdrawn{
+    color: black;
+}
+
